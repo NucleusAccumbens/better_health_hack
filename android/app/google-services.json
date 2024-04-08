@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035601623427",
+    "project_id": "e-mind-mirror-isx1dz",
+    "storage_bucket": "e-mind-mirror-isx1dz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035601623427:android:d5c11171dba4fc6f3d5eb6",
+        "android_client_info": {
+          "package_name": "com.emindmirror"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALY4fT0W5JoGwGC4gwvIMqhesxI0orZeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

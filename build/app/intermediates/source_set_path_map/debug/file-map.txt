@@ -1,0 +1,52 @@
+com.emindmirror.app-jetified-activity-1.6.0-0 C:\Users\User\.gradle\caches\transforms-3\06165f10fa32fe6f6c467b8c229c4c67\transformed\jetified-activity-1.6.0\res
+com.emindmirror.app-fragment-1.3.6-1 C:\Users\User\.gradle\caches\transforms-3\13aa2adbcee9064999f572c0bbd18db5\transformed\fragment-1.3.6\res
+com.emindmirror.app-jetified-emoji2-views-helper-1.2.0-2 C:\Users\User\.gradle\caches\transforms-3\143fe64a4f9240807fa4f79994e30424\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.emindmirror.app-jetified-savedstate-1.2.0-3 C:\Users\User\.gradle\caches\transforms-3\19343704a87302eb8e31d807b55c2a90\transformed\jetified-savedstate-1.2.0\res
+com.emindmirror.app-jetified-play-services-auth-20.7.0-4 C:\Users\User\.gradle\caches\transforms-3\19dda675b9a55d2e7e7a1708acff9972\transformed\jetified-play-services-auth-20.7.0\res
+com.emindmirror.app-jetified-datastore-preferences-1.0.0-5 C:\Users\User\.gradle\caches\transforms-3\2535589d5debad33fa7ff46b14b564de\transformed\jetified-datastore-preferences-1.0.0\res
+com.emindmirror.app-media-1.4.1-6 C:\Users\User\.gradle\caches\transforms-3\2a57ceec3a5f4116718a233a174fb04a\transformed\media-1.4.1\res
+com.emindmirror.app-jetified-lifecycle-process-2.4.1-7 C:\Users\User\.gradle\caches\transforms-3\2ed9fbb0c6ee1b3cb0dac634c06e6d73\transformed\jetified-lifecycle-process-2.4.1\res
+com.emindmirror.app-jetified-window-1.0.0-beta04-8 C:\Users\User\.gradle\caches\transforms-3\3547045148f823ae82ba5f00da62432e\transformed\jetified-window-1.0.0-beta04\res
+com.emindmirror.app-lifecycle-viewmodel-2.5.1-9 C:\Users\User\.gradle\caches\transforms-3\3bfb5e8f2dea493ac449315bc4ba19d3\transformed\lifecycle-viewmodel-2.5.1\res
+com.emindmirror.app-jetified-datastore-1.0.0-10 C:\Users\User\.gradle\caches\transforms-3\50c8cff68177bb15330a128918adb2cd\transformed\jetified-datastore-1.0.0\res
+com.emindmirror.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-11 C:\Users\User\.gradle\caches\transforms-3\6018e7370c37029e8e09354f89473266\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.emindmirror.app-browser-1.4.0-12 C:\Users\User\.gradle\caches\transforms-3\68e4604425ccccc8b72091daeabc9e65\transformed\browser-1.4.0\res
+com.emindmirror.app-appcompat-1.6.1-13 C:\Users\User\.gradle\caches\transforms-3\7088bd3f482814f9788afeb0d979ff2f\transformed\appcompat-1.6.1\res
+com.emindmirror.app-lifecycle-livedata-core-2.5.1-14 C:\Users\User\.gradle\caches\transforms-3\7a290c987b81d635b16e201b3b67a371\transformed\lifecycle-livedata-core-2.5.1\res
+com.emindmirror.app-jetified-play-services-basement-18.2.0-15 C:\Users\User\.gradle\caches\transforms-3\99351861dee3c74d68ece502978737aa\transformed\jetified-play-services-basement-18.2.0\res
+com.emindmirror.app-jetified-play-services-base-18.0.1-16 C:\Users\User\.gradle\caches\transforms-3\9aacd92044d3c0fced5d96d094537c9f\transformed\jetified-play-services-base-18.0.1\res
+com.emindmirror.app-core-1.9.0-17 C:\Users\User\.gradle\caches\transforms-3\9db9fbf2cbbe5ae224d9399ca94dfcb5\transformed\core-1.9.0\res
+com.emindmirror.app-jetified-core-ktx-1.9.0-18 C:\Users\User\.gradle\caches\transforms-3\ac1364a476423833455fc6a3719691f2\transformed\jetified-core-ktx-1.9.0\res
+com.emindmirror.app-jetified-media2-session-1.2.1-19 C:\Users\User\.gradle\caches\transforms-3\b04b216674bbfd7bbd63bef2bc750b8f\transformed\jetified-media2-session-1.2.1\res
+com.emindmirror.app-jetified-appcompat-resources-1.6.1-20 C:\Users\User\.gradle\caches\transforms-3\b10ccbc735ca5ee2f4afc853f02fc023\transformed\jetified-appcompat-resources-1.6.1\res
+com.emindmirror.app-jetified-firebase-common-20.4.2-21 C:\Users\User\.gradle\caches\transforms-3\c5dc4189ad24574cf37af0c0c4872833\transformed\jetified-firebase-common-20.4.2\res
+com.emindmirror.app-jetified-exoplayer-core-2.18.7-22 C:\Users\User\.gradle\caches\transforms-3\ca8dee86cccd942fcbb18a4259fee828\transformed\jetified-exoplayer-core-2.18.7\res
+com.emindmirror.app-jetified-startup-runtime-1.1.1-23 C:\Users\User\.gradle\caches\transforms-3\ceda96c3687880f3304e761e4e683fc7\transformed\jetified-startup-runtime-1.1.1\res
+com.emindmirror.app-jetified-media2-common-1.2.1-24 C:\Users\User\.gradle\caches\transforms-3\d9262fab88780987f85789f0a60d5b08\transformed\jetified-media2-common-1.2.1\res
+com.emindmirror.app-jetified-annotation-experimental-1.3.0-25 C:\Users\User\.gradle\caches\transforms-3\e230ddc841c9052f64c39552e165ed39\transformed\jetified-annotation-experimental-1.3.0\res
+com.emindmirror.app-jetified-window-java-1.0.0-beta04-26 C:\Users\User\.gradle\caches\transforms-3\e35e8dc727b74800fd8b576809d7e083\transformed\jetified-window-java-1.0.0-beta04\res
+com.emindmirror.app-lifecycle-runtime-2.5.1-27 C:\Users\User\.gradle\caches\transforms-3\e6ddb6396bc9d68c760ec29e934128c4\transformed\lifecycle-runtime-2.5.1\res
+com.emindmirror.app-jetified-emoji2-1.2.0-28 C:\Users\User\.gradle\caches\transforms-3\f7dad83605661ee826644dacb52d4019\transformed\jetified-emoji2-1.2.0\res
+com.emindmirror.app-debug-29 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\android\app\src\debug\res
+com.emindmirror.app-main-30 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\android\app\src\main\res
+com.emindmirror.app-google-services-31 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\app\generated\res\google-services\debug
+com.emindmirror.app-pngs-32 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\app\generated\res\pngs\debug
+com.emindmirror.app-resValues-33 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\app\generated\res\resValues\debug
+com.emindmirror.app-rs-34 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\app\generated\res\rs\debug
+com.emindmirror.app-mergeDebugResources-35 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.emindmirror.app-mergeDebugResources-36 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.emindmirror.app-merged_res-37 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\app\intermediates\merged_res\debug
+com.emindmirror.app-packaged_res-38 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\audio_session\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-39 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\cloud_firestore\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-40 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\firebase_auth\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-41 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\firebase_core\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-42 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\firebase_performance\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-43 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\google_sign_in_android\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-44 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\just_audio\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-45 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\path_provider_android\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-46 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\printing\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-47 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\record_android\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-48 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\shared_preferences_android\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-49 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\sign_in_with_apple\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-50 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\sqflite\intermediates\packaged_res\debug
+com.emindmirror.app-packaged_res-51 C:\Users\User\Desktop\E-Mind Mirror\e_mind_mirror\build\url_launcher_android\intermediates\packaged_res\debug
